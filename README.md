@@ -1,3 +1,3 @@
 # pen-testing
 
-Various pen testing scripts, used for education.
+Various pen testing scripts for web crawling etc, used for education.
