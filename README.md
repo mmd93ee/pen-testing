@@ -1,1 +1,3 @@
-# pen_testing
+# pen-testing
+
+Various pen testing scripts, used for education.
